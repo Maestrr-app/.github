@@ -1,3 +1,5 @@
+<p align="center"><strong><a href="https://maestrr-app.github.io/">Découvrir Maestrr sur le site officiel →</a></strong></p>
+
 <h1 align="center">Maestrr — Votre multimédia, chez vous</h1>
 <p align="center">Installez votre serveur. Découvrez vos médias. Pilotez vos applications.</p>
 <p align="center"><strong>Auto-hébergé · Windows · Linux · TrueNAS SCALE 24.10+ · Mobile et tablette</strong></p>
